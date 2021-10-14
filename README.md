@@ -1,0 +1,2 @@
+# netstorage-course
+NFS, Ceph
